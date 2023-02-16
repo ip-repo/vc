@@ -1,0 +1,43 @@
+QWidget{
+	background-color: gray;
+	border: 2px solid #E95420;
+	color:white;
+}
+QToolTip {
+	background-color: gray;
+	color:black;
+}
+
+QPushButton {
+	font-size: 22px;
+	border-radius: 10px;
+}
+
+QPushButton:hover{
+	border-color:black;
+}
+
+QLabel {
+	text-align:center;
+	font-size: 17px;
+	border-radius: 10px;
+}
+
+QLabel:hover{
+	border-color:black;
+}
+
+QProgressBar {
+	border-radius: 5px;
+}
+
+QProgressBar:hover{
+	border-color:black;
+}
+
+QProgressBar::chunk {
+	background-color:white;
+	width: 4px;
+	border-radius: 20px;
+	margin: 1px;
+}
