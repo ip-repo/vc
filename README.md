@@ -24,10 +24,10 @@ that allow to open a widget that control the default sink volume using keyboard 
 
 <b>How to use:</b>
 ```bash
+#clone repo
 git clone https://github.com/ip-repo/vc.git
 
 #venv
-
 python3 -m venv vc_venv
 source vc_venv/bin/activate
 pip install PySide6==6.4.2
