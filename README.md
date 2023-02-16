@@ -24,7 +24,7 @@ that allow to open a widget that control the default sink volume using keyboard 
 
 <b>How to use:</b>
 ```bash
-git clone
+git clone https://github.com/ip-repo/vc.git
 
 #venv
 
